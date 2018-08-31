@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Damian Stanczyk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS dev wannabe"
+  bio              : ""
   location         : "Szczecin, PL"
   email            : "damian.stanczyk@gmail.com"
   uri              :
