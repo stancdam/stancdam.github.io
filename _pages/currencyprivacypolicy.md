@@ -1,5 +1,9 @@
 ---
 title: "Currency - Privacy Policy"
-permalink: /currencyprivacypolicy/
+permalink: /privacypolicy/
 
-privacy policy
+---
+
+I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc
