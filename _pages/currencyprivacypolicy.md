@@ -1,5 +1,6 @@
 ---
 title: "Currency - Privacy Policy"
+layout: posts
 permalink: /privacypolicy/
 
 ---
